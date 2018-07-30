@@ -1,0 +1,4 @@
+git init
+git commit -m 'stumansys'
+git remote add origin https://github.com/Flowerowl/stumansys.git
+git push origin master
